@@ -1,4 +1,3 @@
 # C-Clever-Lilly
-This is the C# Basic task Clever Lilly
+This is a task from C# Basics - Clever Lilly
 
-Add more text...
